@@ -1,0 +1,46 @@
+<storage2>
+<route>
+        <id>1</id>
+        <name>123213</name>
+        <coordinates>
+            <x>0</x>
+            <y>0.0</y>
+        </coordinates>
+        <creationDate>2022-02-13T21:24:14.083</creationDate>
+        <from>
+            <name>aboba</name>
+            <x>2.0</x>
+            <y>3</y>
+            <z>3</z>
+        </from>
+        <to>
+            <name>aboba</name>
+            <x>2.0</x>
+            <y>3</y>
+            <z>3</z>
+        </to>
+        <distance>3</distance>
+</route>
+<route>
+        <id>2</id>
+        <name>123213</name>
+        <coordinates>
+            <x>0</x>
+            <y>0.0</y>
+        </coordinates>
+        <creationDate>2022-02-13T21:24:14.083</creationDate>
+        <from>
+            <name>aboba</name>
+            <x>2.0</x>
+            <y>3</y>
+            <z>3</z>
+        </from>
+        <to>
+            <name>aboba</name>
+            <x>2.0</x>
+            <y>3</y>
+            <z>3</z>
+        </to>
+        <distance>3</distance>
+</route>
+</storage2>
